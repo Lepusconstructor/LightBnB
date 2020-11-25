@@ -5,7 +5,9 @@ VALUES ('Sunny', 'sunny@sunny.com','$2a$10$FB/BOAVhpuLvpOREQVmvmezD4ED/.JBIDRh70
 
 
 INSERT INTO properties (id, title, description, thumbnail_photo_url, cover_photo_url, cost_per_night, parking_spaces, number_of_bathrooms, number_of_bedrooms, country, street, city, province, post_code)
-VALUES (1,'Bank corner', 'description', 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFwsxRIOjunAQO_-MVZx6PfnQ4_qQ_q1QEaA&usqp=CAU','https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFwsxRIOjunAQO_-MVZx6PfnQ4_qQ_q1QEaA&usqp=CAU', 50, 5, 1, 1, 'Canada', 'Bank street', 'Ottawa', 'ON', 'K1C'), (2,'Park corner', 'description','https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFwsxRIOjunAQO_-MVZx6PfnQ4_qQ_q1QEaA&usqp=CAU','https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFwsxRIOjunAQO_-MVZx6PfnQ4_qQ_q1QEaA&usqp=CAU', 50, 5, 1, 1, 'Canada', 'Park street', 'Ottawa', 'ON', 'K1C'),
+VALUES 
+(1,'Bank corner', 'description', 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFwsxRIOjunAQO_-MVZx6PfnQ4_qQ_q1QEaA&usqp=CAU','https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFwsxRIOjunAQO_-MVZx6PfnQ4_qQ_q1QEaA&usqp=CAU', 50, 5, 1, 1, 'Canada', 'Bank street', 'Ottawa', 'ON', 'K1C'), 
+(2,'Park corner', 'description','https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFwsxRIOjunAQO_-MVZx6PfnQ4_qQ_q1QEaA&usqp=CAU','https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFwsxRIOjunAQO_-MVZx6PfnQ4_qQ_q1QEaA&usqp=CAU', 50, 5, 1, 1, 'Canada', 'Park street', 'Ottawa', 'ON', 'K1C'),
 (3,'School corner', 'description','https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFwsxRIOjunAQO_-MVZx6PfnQ4_qQ_q1QEaA&usqp=CAU','https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFwsxRIOjunAQO_-MVZx6PfnQ4_qQ_q1QEaA&usqp=CAU', 50, 5, 1, 1, 'Canada', 'School street', 'Ottawa', 'ON', 'K1C');
 
 
